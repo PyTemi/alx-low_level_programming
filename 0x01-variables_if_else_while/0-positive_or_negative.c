@@ -11,15 +11,13 @@
 /* betty style doc for function main goes there */
 
 /**
- *
  *  * main - main function
  *
  *   * No Description:
  *
  *    * Return: 0
  *
- *     */
-
+ */
 int main(void)
 
 {
